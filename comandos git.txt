@@ -12,3 +12,4 @@ git push origin master = envia nuestros archivos al repositorio remoto hithub
 
 git config -l = datos cargados por el usuario PARA SALIR DE ESTE MENU teclear Q
 
+git clone "URL_ESTUDIANTE" = esto nos permite acceder a un repositorio remoto para poder visualizar y descargar los archivos

@@ -1,0 +1,14 @@
+git init = inicializa una carpeta en la rama "master"
+
+git remote add origin "URL" = vincula y conecta nuestro repositorio local con el remoto
+
+git status = estado de los cambios en la rama principal
+
+git add . = añade todos los archivos y carpetas
+
+git commit –m “Mensaje” = nos permite ingresar un mensaje que sera de ayuda para identificar nuestros cambios en el repositorio
+
+git push origin master = envia nuestros archivos al repositorio remoto hithub
+
+git config -l = datos cargados por el usuario PARA SALIR DE ESTE MENU teclear Q
+
